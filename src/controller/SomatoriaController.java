@@ -8,8 +8,7 @@ public class SomatoriaController {
 
 	public double somatoria(int n) {
 		// A condição de parada será quando o número inserido para a somatória for 1 ou
-		// quando o n chegar em 1, ficando então 1/1. Então o retorno será
-		// 1.
+		// quando o n chegar em 1, ficando então 1/1. Então o retorno será 1.
 		if (n == 1) {
 			return 1;
 		}
